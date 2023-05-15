@@ -4,4 +4,5 @@
 ##### (Mainly ment for Laptop/Pc)
 
   # Adsence:
-    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3025457355128361"
+     crossorigin="anonymous"></script>
